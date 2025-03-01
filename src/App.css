@@ -1,0 +1,30 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+  margin-left: 3vw;
+  margin-right: 3vw;
+  
+  font-family: "Funnel Display", Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: black;
+}
+
+.cardContainer {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+@media (max-width: 768px) {
+  .cardContainer {
+      flex-direction: column;
+      flex-flow: row wrap;
+  }
+ 
+}
