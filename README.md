@@ -33,7 +33,7 @@ GIF created with ...
 
 ## Notes
 
-AT first, I got very confused with modifying the website's body div to fit the whole screen. In the end I somehow work it out and it works well! Besides that, I also had to spend a lot of time searching on CSS to style elements as I am not that familiar with CSS yet. That's probably the reason why I spent so long on this project.
+At first, I got very confused with modifying the website's body div to fit the whole screen. In the end I somehow work it out and it works well! Besides that, I also had to spend a lot of time searching on CSS to style elements as I am not that familiar with CSS yet. That's probably the reason why I spent so long on this project.
 
 ## License
 
