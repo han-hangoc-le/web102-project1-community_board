@@ -9,10 +9,13 @@
 
 .title {
     font-family: "Funnel Display";
-    color: rgb(255, 255, 255);
+    /* color: linear-gradient(#FFF18A, #FFFFFF); */
+    background: -webkit-linear-gradient(#fff5ad, #FFFFFF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     margin: 0;
     padding: 3%;
-    text-shadow: 0px 0px 9px #e07777;
+    text-shadow: 0px 0px 9px #fffbce;
 }
 
 .subtitle {

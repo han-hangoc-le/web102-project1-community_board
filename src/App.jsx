@@ -1,6 +1,7 @@
 import './App.css'
 import Header from './components/header'
 import Card from './components/card'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
           <Card imagepath={'/my.png'} itemname={'My Quang Ca Loc'} english={'Quang-Style Noodles\nwith Snakehead Fish'} category={'Local Food'} website={'https://maps.app.goo.gl/Wdaxu9gft3HAgmGz7'}/>
           <Card imagepath={'/duongray.JPEG'} itemname={'Banh My Chao\nDuong Ray'} english={'Railroad Pan-Fried Banh Mi'} category={'Local Food'} website={'https://maps.app.goo.gl/NHYECFYxvrczTzAw5'}/>
         </div>
+        <Footer/>
       </div>
     </>
   )
