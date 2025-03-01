@@ -2,9 +2,9 @@
 
 Submitted by: **Han Le**
 
-This web app: **insert description**
+This web app: **This website is a introduction board to exploring Danang City, Vietnam! All the places and food recommendation are from me - a Danang local. On each card, there are Vietnamese names, English names and a button to learn more about the item. I created 3 categories: local food, local attractions and local nature. Judging by the number of items in each category, you probably know which aspect of Danang I love the most ;)**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -17,10 +17,6 @@ The following **optional** features are implemented:
 
 - [x] Buttons or links to a related resources are on each card component
 - [ ] The site is responsive for both desktop and mobile formats
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
@@ -37,11 +33,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+AT first, I got very confused with modifying the website's body div to fit the whole screen. In the end I somehow work it out and it works well! Besides that, I also had to spend a lot of time searching on CSS to style elements as I am not that familiar with CSS yet. That's probably the reason why I spent so long on this project.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Han Le]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
